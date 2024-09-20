@@ -19,7 +19,7 @@ const page = () => {
           </h1>
           <ul className="flex items-center justify-center sm:flex-nowrap flex-wrap gap-3">
             <li className="text-2xl font-caveat">
-              <a href="https://wphtml.com/" className="text-white">
+              <a href="land" className="text-white">
                 Home
               </a>
             </li>
