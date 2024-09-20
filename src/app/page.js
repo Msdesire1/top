@@ -55,7 +55,7 @@ const page = () => {
           <div>
             <div data-aos="fade-up-right" data-aos-duration="300"
               class="banner__thumb absolute xxl:left-[calc(50%--120px)] left-[calc(50%--80px)] bottom-0">
-              <img src="assets/img/banner/desire.png" alt="man-img" class="w-full h-[750px]" />
+              <img src="assets/img/banner/desire.png" alt="man-img" class="w-full h-[750px] lg:block hidden" />
             </div>
           </div>
         </div>
